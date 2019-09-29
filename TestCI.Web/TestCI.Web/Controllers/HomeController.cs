@@ -25,6 +25,7 @@ namespace TestCI.Web.Controllers
 
         public IActionResult Privacy()
         {
+            throw new Exception("异常测试！");
             return View();
         }
 
