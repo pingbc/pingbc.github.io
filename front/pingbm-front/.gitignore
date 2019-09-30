@@ -1,10 +1,3 @@
-/TestCI.Web/TestCI.Web/bin
-/TestCI.Web/TestCI.Web/obj
-/TestCI.Web/TestCI.Web/*.user
-/TestCI.Web/.vs
-/TestCI.Web/TestCI.Web/Properties
-/front/node_modules
-/front/.vscode
 .DS_Store
 node_modules
 /dist
